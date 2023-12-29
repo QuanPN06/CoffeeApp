@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_Home"
+        android:title="Trang chủ"
+        android:icon="@drawable/baseline_home_24"
+        android:titleCondensed="Trang chủ"
+        android:titleTextColor="?attr/colorControlNormal"
+        android:iconTint="?attr/colorControlNormal"/>
+    <item android:id="@+id/action_Cart"
+        android:title="Giỏ Hàng"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:titleCondensed="Giỏ Hàng"
+        android:titleTextColor="?attr/colorControlNormal"
+        android:iconTint="?attr/colorControlNormal"/>
+    <item android:id="@+id/action_Request"
+        android:title="Phản Hồi"
+        android:icon="@drawable/baseline_email_24"
+        android:titleCondensed="Phản Hồi"
+        android:titleTextColor="?attr/colorControlNormal"
+        android:iconTint="?attr/colorControlNormal"/>
+    <item android:id="@+id/action_History"
+        android:title="Lịch Sử"
+        android:icon="@drawable/baseline_history_24"
+        android:titleCondensed="Lịch Sử"
+        android:titleTextColor="?attr/colorControlNormal"
+        android:iconTint="?attr/colorControlNormal"/>
+    <item android:id="@+id/action_User"
+        android:title="Tài Khoản"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:titleCondensed="Tài Khoản"
+        android:titleTextColor="@color/gray"
+        android:iconTint="@color/gray"/>
+</menu>

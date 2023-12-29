@@ -1,0 +1,10 @@
+<resources>
+    <!-- Các style khác (nếu có) -->
+
+    <style name="ImageViewCircle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20%</item> <!-- Điều chỉnh giá trị tùy ý để bo tròn theo ý muốn -->
+    </style>
+
+    <!-- Các style khác (nếu có) -->
+</resources>
